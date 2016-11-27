@@ -5,5 +5,5 @@ Heading 2
 
 Adding new line
 
-this is the new line for showing branch
+this is the changed line for master branch
 
