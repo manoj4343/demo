@@ -7,3 +7,4 @@ Adding new line
 
 this is the new line for showing branch
 
+very-bad branch line
