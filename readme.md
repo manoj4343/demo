@@ -2,9 +2,5 @@ This is a readme file
 
 Heading 2
 
+New line added for Master Branch
 
-Adding new line
-
-this is the changed line for master branch
-
-very-bad branch line
